@@ -1,8 +1,8 @@
 # Cybersecurity Portfolio
 
-[Professional Statement](../cybersecurity/Portfolio/ProfessionalStatement.md)
+[Professional Statement](../Portfolio/ProfessionalStatement.md)
 
-[Conducting a security audit](../cybersecurity/Portfolio/SecurityAudit.md)
+[Conducting a security audit](../Portfolio/SecurityAudit.md)
 
 ## TBA
 
