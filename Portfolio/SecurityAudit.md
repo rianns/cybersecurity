@@ -104,6 +104,13 @@ Findings (should be addressed, but no immediate need):
   - Locking cabinets
   - Signage indicating alarm service provider
 
-Summary/Recommendations:
+Recommendations:
+
+- Botium Toys should immediately develop and implement the necessary controls to address the critical findings listed above.
+- Botium Toys should develop and implement policies and regulations to adhere to the GDPR, PCI DSS, SOC Type 1, and SOC Type 2.
+- Botium Toys should conduct regular security audits to ensure that their systems and processes are in compliance with all applicable regulations.
+- Botium Toys should educate their employees on security best practices and how to protect sensitive data.
+
+Summary:
 
 The findings of this audit indicate that Botium Toys has some significant security gaps that need to be addressed immediately. By implementing the recommendations listed above, Botium Toys can improve their security posture and protect their sensitive data from unauthorised access.
