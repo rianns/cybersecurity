@@ -6,16 +6,16 @@
 
 ## TBA
 
-Analyzing network structure and security
+TODO: #2 Analyzing network structure and security
 
-Using Linux commands to manage file permissions
+TODO: #3 Using Linux commands to manage file permissions
 
-Applying filters to SQL queries
+TODO: #4 Applying filters to SQL queries
 
-Identifying vulnerabilities for a small business
+TODO: #5 Identifying vulnerabilities for a small business
 
-Documenting incidents with an incident handler’s journal
+TODO: #6 Documenting incidents with an incident handler’s journal
 
-Importing and parsing a text file in a security-related scenario
+TODO: #7 Importing and parsing a text file in a security-related scenario
 
-Creating or revising a resume
+TODO: #8 Creating or revising a resume
