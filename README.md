@@ -4,9 +4,9 @@
 
 - [Conducting a security audit](Portfolio/SecurityAudit.md)
 
-## TBA
+- [Analysing network structure and security](Portfolio/NetworkSecurity.md)
 
-TODO: #2 Analyzing network structure and security
+## TBA
 
 TODO: #3 Using Linux commands to manage file permissions
 
